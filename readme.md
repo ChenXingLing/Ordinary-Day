@@ -20,4 +20,4 @@
 
 - 2023-6-30：初具雏形、课堂展示。
 
-详见：[Ordinary Day 开发日志](./src/Ordinary Day 开发日志.md)
+详见：[Ordinary Day 开发日志](./src/Ordinary-Day-开发日志.md)
