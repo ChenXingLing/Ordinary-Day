@@ -324,7 +324,7 @@ public bool only_one_time = true;//是否只允许播放/消除一次
 
 VITS参数：`noise_scale=0.1;` `noise_scale_w=0.9;` `length_scale=1.2;`
 
-[【开发日志】台本](./[开发日志]台本)
+[[开发日志]台本](./[开发日志]台本)
 
 ### **六：【剧情流程控制】**
 
